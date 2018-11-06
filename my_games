@@ -1,0 +1,2 @@
+git remote add origin https://github.com/pthaack/My_Games.git
+git push -u origin master
